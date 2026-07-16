@@ -3,7 +3,7 @@
 > A collection of projects, assignments, and practical implementations completed during the **XtraGrad AI Internship Program**. This repository showcases my hands-on learning journey in Machine Learning, Artificial Intelligence, and Python development.
 
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Projects-green?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Artificial%20Intelligence-Projects-green?style=flat-square)
 ![Internship](https://img.shields.io/badge/Internship-XtraGrad-orange?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 
